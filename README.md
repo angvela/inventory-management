@@ -17,7 +17,7 @@ cd inventory-project
 b.Create virtual environment
 pipenv shell
 c.Install packages
-pipenv install flask request pytest
+pipenv install flask request 
 d.Run The Application
 🔹Start Flask server;
 
@@ -53,5 +53,4 @@ DELETE /inventory/ Delete item
 Python
 Flask
 Requests
-Pytest
 OpenFoodFacts API
